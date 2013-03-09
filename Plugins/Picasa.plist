@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Filter</key>
+	<string>/s144/</string>
+	<key>ImageSubs</key>
+	<array>
+		<dict>
+			<key>Find</key>
+			<string>/s144/</string>
+			<key>Replace</key>
+			<string>/</string>
+		</dict>
+	</array>
+	<key>MoreOffset</key>
+	<integer>20</integer>
+	<key>MoreQuery</key>
+	<string>http://picasaweb.google.com/lh/searchbrowse?q=%@&amp;uname=&amp;psc=G&amp;filter=1#%d+1</string>
+	<key>Query</key>
+	<string>http://picasaweb.google.com/lh/searchbrowse?q=%@&amp;uname=&amp;psc=G&amp;filter=1#0+1</string>
+	<key>Root</key>
+	<string>picasaweb.google.com</string>
+	<key>Timestamp</key>
+	<integer>200807300</integer>
+	<key>Title</key>
+	<string>Picasa</string>
+</dict>
+</plist>

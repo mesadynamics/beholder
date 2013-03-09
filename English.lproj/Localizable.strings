@@ -1,0 +1,66 @@
+"GenericOK" = "OK";
+"GenericCancel" = "Cancel";
+
+"DefaultPlugin" = "Set \"%@\" as Default Plugin";
+"Scraping" = "Scanning";
+"Searching" = "Searching";
+"Parsing" = "Parsing";
+"RSS" = "RSS feed";
+"ImageLinks" = "image links";
+"Directory" = "directory listing";
+"Found" = "found";
+"SearchResults" = "Search Results";
+"ScrapeResults" = "Scan Results";
+"NoResults" = "No results";
+"ResultsFrom" = "Results from";
+"FolderEmpty" = "folder contains no images";
+"QueryError" = "web query failed";
+"SearchCancel" = "search stopped by user";
+"ScrapeCancel" = "scan stopped by user";
+"Protected" = "host requires authentication";
+"PluginError" = "Plugin error (see OS X Console for details)";
+
+"SaveIntoFolder" = "Choose Folder";
+
+"SaveSearch" = "Save Search";
+"SaveImage" = "Save Image";
+
+"Stop" = "Stop";
+"Start" = "Start";
+"More" = "More";
+
+"LockSearch" = "Lock Search Navigator";
+"UnlockSearch" = "Unlock Search Navigator";
+
+"HideDetails" = "Hide Details Panel";
+"ShowDetails" = "Show Details Panel";
+
+"HideBadges" = "Hide Thumbnail Badges";
+"ShowBadges" = "Show Thumbnail Badges";
+
+"HideBroken" = "Hide Expired Results";
+"ShowBroken" = "Show Expired Results";
+
+"ImageWindow" = "Image";
+"SearchWindow" = "Search";
+
+"MissingTitle" = "Plugin Missing";
+"MissingMessage" = "The seach engine plugin \"%@\" used by this saved search is no longer installed.";
+
+"Image" = "Image:";
+"Page" = "Page:";
+"Link" = "Link:";
+"Size" = "Size:";
+"Pixels" = "pixels";
+"Thumbnail" = "thumbnail";
+"Actual" = "actual";
+
+"UpdateCheck" = "Check for Updates...";
+"UpdateYes" = "A new version of Beholder is available.";
+"UpdateNo" = "Your version of Beholder is up to date.  There are no updates available at this time.";
+"UpdateDownload" = "Go to Download Page";
+
+"PluginCheck" = "Check for New Plugins...";
+"PluginMessage" = "Your Beholder plugins are up to date.  There are no updated or new plugins available at this time.";
+
+"Copyright" = "Note: This image may be subject to copyright.";
