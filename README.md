@@ -1,4 +1,4 @@
 beholder
 ========
 
-Internet Web image finder
+Internet Web image finder.
